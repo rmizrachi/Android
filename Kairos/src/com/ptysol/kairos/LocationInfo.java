@@ -1,4 +1,4 @@
-package com.ptysolutions.kairos;
+package com.ptysol.kairos;
 
 /**
  * Created by Ramon on 4/5/2016.

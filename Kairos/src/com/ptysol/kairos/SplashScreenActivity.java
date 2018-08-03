@@ -1,4 +1,4 @@
-package com.ptysolutions.kairos;
+package com.ptysol.kairos;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

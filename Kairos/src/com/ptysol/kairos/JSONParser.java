@@ -1,7 +1,7 @@
 /**
  * Created by Ramon on 3/28/2016.
  */
-package com.ptysolutions.kairos;
+package com.ptysol.kairos;
 
 import android.os.AsyncTask;
 

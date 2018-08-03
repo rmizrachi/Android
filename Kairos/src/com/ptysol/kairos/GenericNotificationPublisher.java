@@ -1,4 +1,4 @@
-package com.ptysolutions.kairos;
+package com.ptysol.kairos;
 
 import android.app.Notification;
 import android.app.NotificationManager;
